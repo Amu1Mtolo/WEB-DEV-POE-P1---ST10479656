@@ -1,5 +1,6 @@
+/* General Styles for All Pages */
 body {
-    background-image: url('Images/bubbles-background.jpg');
+    background-image: url('Images/laundry.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -12,7 +13,7 @@ body {
 
 header {
     background-color: #0044cc;
-    color: white;
+    color: #0044cc;
     padding: 10px 20px;
     text-align: center;
 }
@@ -27,7 +28,7 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: #0044cc;
     text-decoration: none;
     margin: 0 15px;
     font-size: 1.2em;
@@ -65,4 +66,63 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+/* Specific Styles for About Us Page */
+body.aboutus {
+    background-image: url('Images/bubbles.jpg');
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
 
+header {
+    background-color: #0044cc;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1.2em;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #0044cc;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
