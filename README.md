@@ -41,7 +41,6 @@ Follow us on social media:
 - [Instagram](https://www.instagram.com/DrWashLaundry)
 
   ## GitHub
-
----
+  https://github.com/Amu1Mtolo/Website-Code.git
 
 Thank you for choosing Dr Wash Laundry!
