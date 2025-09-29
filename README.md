@@ -44,3 +44,7 @@ Follow us on social media:
   https://github.com/Amu1Mtolo/Website-Code.git
 
 Thank you for choosing Dr Wash Laundry!
+
+## Changelog
+
+
