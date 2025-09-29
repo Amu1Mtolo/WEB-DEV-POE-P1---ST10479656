@@ -46,7 +46,7 @@ Follow us on social media:
 Thank you for choosing Dr Wash Laundry!
 
 ## Changelog
-** Summary of Changes 
+** Summary of Changes (PART 2)
 **Body Styles**
 - Added font-family, line-height, and color for better readability.
 **Headings (h1 to h6)**
