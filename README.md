@@ -47,6 +47,17 @@ Thank you for choosing Dr Wash Laundry!
 
 ## Changelog
 ** Summary of Changes 
-**
+**Body Styles**
+- Added font-family, line-height, and color for better readability.
+**Headings (h1 to h6)**
+- Defined font-family, font sizes, colors and margins for a clear hierarchy.
+**Paragraphs (p)**
+- Added spacing and font size for better readability.
+**Lists**
+  - Improved spacing and indentation for list items.
+**Blockquotes**
+ - Styled blockquotes with italics, a border and padding.
+**Strong and Emphasis**
+- Styled bold and italic text for emphasis.
 
 
