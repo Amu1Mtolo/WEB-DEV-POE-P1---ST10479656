@@ -46,5 +46,7 @@ Follow us on social media:
 Thank you for choosing Dr Wash Laundry!
 
 ## Changelog
+** Summary of Changes 
+**
 
 
